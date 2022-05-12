@@ -1,5 +1,7 @@
 # Rice_Image_Classification
 It's a Deep Learning based Rice Image Classification Project using TensorFlow 2.x
+
+
 Model has been trained to classify among images of 5 different categories of Rice namely Arborio,Basmati,Ipsala,Jasmine,Karacadag.
 
 Dataset has downloaded from Kaggle.
