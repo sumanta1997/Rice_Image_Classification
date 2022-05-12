@@ -15,3 +15,7 @@ Early stopping callback has been used to prevent overfitting and to retain the b
 
 Model has attained 99.11% accuarcy on test set
 
+The architecture of the model is as follows:
+
+![](https://github.com/sumanta1997/Rice_Image_Classification/blob/master/model.png)
+
